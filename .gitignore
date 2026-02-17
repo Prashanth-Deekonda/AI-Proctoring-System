@@ -1,0 +1,18 @@
+# Virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files
+yolov8n.pt
+yolov8s.pt
+
+# Face data
+data/
+
+# OS files
+.DS_Store
+Thumbs.db
